@@ -1,1 +1,1 @@
-this is test java
+this is test from main
